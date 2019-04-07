@@ -1,4 +1,4 @@
-## Python Code Snippets 
+## Tensorflow deeplearning.ai course
 
-[MySQL Connector for Python](https://github.com/axelnine/MachineLearning-Tidbits/blob/master/Python%20Code%20Snippets/pymysqlconnector.py):
-This code template contains functions to help connect a MySQL database in Python for reference.
+[Exercise 1](https://github.com/axelnine/Python-Snippets-for-Data-Science/blob/master/Tensorflow%20Snippets/Exercise_1_House_Prices_Question.ipynb):
+Simple Neural Network for housing price prediction.
